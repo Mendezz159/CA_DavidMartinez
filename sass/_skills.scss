@@ -1,0 +1,9 @@
+.skills-columns {
+  display: flex;
+  gap: 2rem; // Espacio entre columnas
+}
+
+.skills-column {
+  flex: 1; // Cada columna ocupa el mismo espacio
+  min-width: 200px; // Opcional: ancho mínimo para
+}

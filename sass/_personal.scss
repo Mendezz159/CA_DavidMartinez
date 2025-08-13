@@ -1,0 +1,12 @@
+@use './variables';
+
+.personal-info {
+  .profile-picture {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border: 4px solid #3498db; // Cambia el color y grosor si lo deseas
+  }
+}
+
